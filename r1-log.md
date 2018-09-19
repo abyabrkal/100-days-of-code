@@ -6,9 +6,21 @@
 ### Day 1: September 18, 2018 Tuesday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Started Wesbos Javascript30
+**Today's Progress**: Started Wesbos Javascript30 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Build a JS Drum playing audio on keydowns.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [CSS Drum](https://github.com/abyabrkal/JS30) (https://github.com/abyabrkal/JS30)
+
+
+
+### Day 2: September 19, 2018 Tuesday
+
+##### (delete me or comment me out)
+
+**Today's Progress**: JS30 Continues with Clock
+
+**Thoughts:** 
+
+**Link to work:** Clock (https://github.com/abyabrkal/JS30)
 
