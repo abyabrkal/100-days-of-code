@@ -17,7 +17,7 @@
 
 ***Today's Progress***: JS30 Continues with Clock
 
-***Thoughts:*** Build Clock in JS
+***Thoughts:*** Build an analog Clock using JS
 
 ***Link to work:*** (https://github.com/abyabrkal/JS30)
 
@@ -45,7 +45,16 @@
 
 ***Today's Progress***: JS30 Flex Panels
 
-***Thoughts:*** 
+***Thoughts:*** Flex Panels was a good refresher on nested flex layouts
+
+***Link to work:***  (https://github.com/abyabrkal/JS30)
+
+***
+### Day 6: September 29, 2018 Sat
+
+***Today's Progress***: JS30 Type Ahead
+
+***Thoughts:*** Missed 5 days in a row due to family commitments. Type Ahead used 'fetch' to download cities data and displays the same as a list based on instant search.
 
 ***Link to work:***  (https://github.com/abyabrkal/JS30)
 
