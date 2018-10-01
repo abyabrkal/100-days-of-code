@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Aby Abraham
+# #100DaysOfCode Log - Round 1 (September) - Aby Abraham
 
 ##Started on Sept 18, Tuesday, 2018.
 
@@ -50,12 +50,25 @@
 ***Link to work:***  (https://github.com/abyabrkal/JS30)
 
 ***
+
+### Day 5X: September 24 - 28, 2018
+
+***Thoughts:*** Missed 5 days in a row due to family commitments.
+
+***
+
 ### Day 6: September 29, 2018 Sat
 
 ***Today's Progress***: JS30 Type Ahead
 
-***Thoughts:*** Missed 5 days in a row due to family commitments. Type Ahead used 'fetch' to download cities data and displays the same as a list based on instant search.
+***Thoughts:*** Type Ahead used 'fetch' to download cities data and displays the same as a list based on instant search.
 
 ***Link to work:***  (https://github.com/abyabrkal/JS30)
 
 ***
+### Day 1X: September 30, 2018
+
+***Thoughts:*** Missed another day to workplace jam. 
+
+***
+
