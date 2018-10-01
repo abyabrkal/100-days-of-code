@@ -51,7 +51,7 @@
 
 ***
 
-### Day 5X: September 24 - 28, 2018
+### Off 5X: September 24 - 28, 2018
 
 ***Thoughts:*** Missed 5 days in a row due to family commitments.
 
@@ -66,7 +66,7 @@
 ***Link to work:***  (https://github.com/abyabrkal/JS30)
 
 ***
-### Day 1X: September 30, 2018
+### Off 1X: September 30, 2018
 
 ***Thoughts:*** Missed another day to workplace jam. 
 
