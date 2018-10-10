@@ -22,3 +22,19 @@
 ***Link to work:***  
 
 ***
+### Day 9 - 14: October 3 - 8, 2018
+
+***Today's Progress***: Refresher on SQL Server, Networking and C++17
+
+***Thoughts:*** Had some good time with SQL Server 2017 setup in VM virtulized Server 2016 environment.
+
+***Link to work:***  
+
+***
+### Day 15, 16: October 9, 10, 2018
+
+***Today's Progress***: HacktoberFest 2018
+
+***Thoughts:*** Completed 5 PR submissions. Looking out for more involvement. 
+
+***Link to work:***  
